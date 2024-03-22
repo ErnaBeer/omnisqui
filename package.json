@@ -1,0 +1,23 @@
+{
+  "name": "omnisqui",
+  "version": "1.0.0",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "devDependencies": {
+    "prettier": "^2.5.1",
+    "turbo": "latest"
+  },
+  "engines": {
+    "npm": ">=7.0.0",
+    "node": ">=14.0.0"
+  },
+  "packageManager": "yarn@1.22.10",
+  "author": "CordieWill",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ErnaBeer/omnisqui.git"
+  },
+  "homepage": "https://github.com/ErnaBeer/omnisqui.git"
+}
